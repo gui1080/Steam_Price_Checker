@@ -1,0 +1,1343 @@
+1591119156796	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexTuBYo"
+*** You are running in headless mode.
+1591119157095	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591119157489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591119157489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591119157489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591119157490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591119159249	Marionette	INFO	Listening on port 45899
+1591119159304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591119161853	Marionette	INFO	Stopped listening on port 45899
+1591119219782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenxLX7F"
+*** You are running in headless mode.
+1591119220073	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591119220510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591119220510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591119220510	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591119220511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591119222486	Marionette	INFO	Listening on port 43911
+1591119222509	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591119322261	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQ5kjpr"
+*** You are running in headless mode.
+1591119322595	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591119323030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591119323030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591119323030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591119323030	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591119324839	Marionette	INFO	Listening on port 34613
+1591119324873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591119338570	Marionette	INFO	Stopped listening on port 34613
+1591119389824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUN9d3U"
+
+(firefox:4152): Gtk-WARNING **: 14:36:29.876: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4152): Gtk-WARNING **: 14:36:29.876: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591119390254	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591119390703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591119390703	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591119390704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591119390704	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4206): Gtk-WARNING **: 14:36:31.293: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4206): Gtk-WARNING **: 14:36:31.294: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4268): Gtk-WARNING **: 14:36:31.597: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4268): Gtk-WARNING **: 14:36:31.597: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4334): Gtk-WARNING **: 14:36:33.174: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4334): Gtk-WARNING **: 14:36:33.174: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591119393215	Marionette	INFO	Listening on port 33073
+1591119393251	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591119406495	Marionette	INFO	Stopped listening on port 33073
+1591120214794	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileggpp7H"
+
+(firefox:4658): Gtk-WARNING **: 14:50:14.836: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4658): Gtk-WARNING **: 14:50:14.836: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120215139	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120215639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120215639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120215639	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120215640	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4710): Gtk-WARNING **: 14:50:16.273: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4710): Gtk-WARNING **: 14:50:16.273: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4797): Gtk-WARNING **: 14:50:16.437: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4797): Gtk-WARNING **: 14:50:16.437: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4861): Gtk-WARNING **: 14:50:17.648: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4861): Gtk-WARNING **: 14:50:17.648: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120217694	Marionette	INFO	Listening on port 44023
+1591120217713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120298606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXvGP2l"
+
+(firefox:4996): Gtk-WARNING **: 14:51:38.652: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4996): Gtk-WARNING **: 14:51:38.652: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120298950	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120299400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120299400	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120299401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120299401	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5051): Gtk-WARNING **: 14:51:39.913: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5051): Gtk-WARNING **: 14:51:39.913: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5139): Gtk-WARNING **: 14:51:40.110: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5139): Gtk-WARNING **: 14:51:40.110: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5205): Gtk-WARNING **: 14:51:41.444: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5205): Gtk-WARNING **: 14:51:41.444: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120301497	Marionette	INFO	Listening on port 42033
+1591120301524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120404767	Marionette	INFO	Stopped listening on port 42033
+1591120409553	Marionette	INFO	Stopped listening on port 44023
+1591120420394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezdlHOI"
+
+(firefox:5323): Gtk-WARNING **: 14:53:40.435: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5323): Gtk-WARNING **: 14:53:40.435: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120420778	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120421290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120421290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120421290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120421290	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5375): Gtk-WARNING **: 14:53:41.804: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5375): Gtk-WARNING **: 14:53:41.804: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5464): Gtk-WARNING **: 14:53:41.998: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5464): Gtk-WARNING **: 14:53:41.998: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5531): Gtk-WARNING **: 14:53:43.132: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5531): Gtk-WARNING **: 14:53:43.133: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120423171	Marionette	INFO	Listening on port 40875
+1591120423204	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120449348	Marionette	INFO	Stopped listening on port 40875
+1591120554435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE3fehu"
+
+(firefox:5674): Gtk-WARNING **: 14:55:54.481: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5674): Gtk-WARNING **: 14:55:54.481: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120554776	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120555226	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120555227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120555227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120555227	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5726): Gtk-WARNING **: 14:55:55.730: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5726): Gtk-WARNING **: 14:55:55.730: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5817): Gtk-WARNING **: 14:55:55.891: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5817): Gtk-WARNING **: 14:55:55.891: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5883): Gtk-WARNING **: 14:55:57.111: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5883): Gtk-WARNING **: 14:55:57.111: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120557182	Marionette	INFO	Listening on port 45927
+1591120557262	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120597165	Marionette	INFO	Stopped listening on port 45927
+1591120705198	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRnFX7n"
+
+(firefox:5971): Gtk-WARNING **: 14:58:25.244: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5971): Gtk-WARNING **: 14:58:25.244: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120705538	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120705966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120705966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120705966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120705966	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6024): Gtk-WARNING **: 14:58:26.486: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6024): Gtk-WARNING **: 14:58:26.486: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6113): Gtk-WARNING **: 14:58:26.696: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6113): Gtk-WARNING **: 14:58:26.696: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6180): Gtk-WARNING **: 14:58:28.051: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6180): Gtk-WARNING **: 14:58:28.051: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120708139	Marionette	INFO	Listening on port 39117
+1591120708217	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120856355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAvKqZ6"
+
+(firefox:6279): Gtk-WARNING **: 15:00:56.401: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6279): Gtk-WARNING **: 15:00:56.401: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120856699	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120857138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120857138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120857138	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120857139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6333): Gtk-WARNING **: 15:00:57.644: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6333): Gtk-WARNING **: 15:00:57.644: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6418): Gtk-WARNING **: 15:00:57.808: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6418): Gtk-WARNING **: 15:00:57.808: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 15:00:59.098: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6482): Gtk-WARNING **: 15:00:59.099: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120859151	Marionette	INFO	Listening on port 42675
+1591120859176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120929877	Marionette	INFO	Stopped listening on port 42675
+1591120930692	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewYwa3F"
+
+(firefox:6582): Gtk-WARNING **: 15:02:10.733: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6582): Gtk-WARNING **: 15:02:10.733: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120931060	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591120931489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591120931489	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591120931490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591120931490	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6635): Gtk-WARNING **: 15:02:12.022: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6635): Gtk-WARNING **: 15:02:12.022: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6740): Gtk-WARNING **: 15:02:12.227: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6740): Gtk-WARNING **: 15:02:12.227: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6805): Gtk-WARNING **: 15:02:13.493: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6805): Gtk-WARNING **: 15:02:13.493: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591120933551	Marionette	INFO	Listening on port 41629
+1591120933601	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591120935013	Marionette	INFO	Stopped listening on port 39117
+1591120985515	Marionette	INFO	Stopped listening on port 41629
+1591120999829	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejUyV55"
+
+(firefox:6906): Gtk-WARNING **: 15:03:19.878: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6906): Gtk-WARNING **: 15:03:19.878: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121000182	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591121000644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591121000644	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591121000645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591121000645	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6958): Gtk-WARNING **: 15:03:21.162: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6958): Gtk-WARNING **: 15:03:21.162: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7049): Gtk-WARNING **: 15:03:21.367: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7049): Gtk-WARNING **: 15:03:21.368: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7115): Gtk-WARNING **: 15:03:22.529: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7115): Gtk-WARNING **: 15:03:22.529: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121002598	Marionette	INFO	Listening on port 37471
+1591121002637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591121059522	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQEOXiE"
+1591121059579	Marionette	INFO	Stopped listening on port 37471
+
+(firefox:7201): Gtk-WARNING **: 15:04:19.583: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7201): Gtk-WARNING **: 15:04:19.584: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121059928	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591121060379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591121060379	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591121060380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591121060380	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7254): Gtk-WARNING **: 15:04:20.893: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7254): Gtk-WARNING **: 15:04:20.894: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7339): Gtk-WARNING **: 15:04:21.061: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7339): Gtk-WARNING **: 15:04:21.061: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7408): Gtk-WARNING **: 15:04:22.198: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7408): Gtk-WARNING **: 15:04:22.199: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121062267	Marionette	INFO	Listening on port 42165
+1591121062331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591121084998	Marionette	INFO	Stopped listening on port 42165
+1591121326808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileo17LMb"
+
+(firefox:7519): Gtk-WARNING **: 15:08:46.856: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7519): Gtk-WARNING **: 15:08:46.856: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121327161	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591121327588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591121327588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591121327588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591121327588	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7573): Gtk-WARNING **: 15:08:48.106: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7573): Gtk-WARNING **: 15:08:48.106: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7646): Gtk-WARNING **: 15:08:48.296: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7646): Gtk-WARNING **: 15:08:48.296: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7710): Gtk-WARNING **: 15:08:49.448: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7710): Gtk-WARNING **: 15:08:49.448: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121329492	Marionette	INFO	Listening on port 33755
+1591121329520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591121398791	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGS83HD"
+
+(firefox:7786): Gtk-WARNING **: 15:09:58.835: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7786): Gtk-WARNING **: 15:09:58.835: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121399148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591121399657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591121399657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591121399657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591121399657	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7837): Gtk-WARNING **: 15:10:00.168: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7837): Gtk-WARNING **: 15:10:00.168: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7923): Gtk-WARNING **: 15:10:00.370: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7923): Gtk-WARNING **: 15:10:00.370: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7986): Gtk-WARNING **: 15:10:01.644: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7986): Gtk-WARNING **: 15:10:01.645: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121401709	Marionette	INFO	Listening on port 42773
+1591121401817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591121422836	Marionette	INFO	Stopped listening on port 33755
+1591121424776	Marionette	INFO	Stopped listening on port 42773
+1591121477649	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX2Bc4r"
+
+(firefox:8087): Gtk-WARNING **: 15:11:17.694: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:8087): Gtk-WARNING **: 15:11:17.694: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121477998	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591121478459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591121478459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591121478459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591121478459	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8140): Gtk-WARNING **: 15:11:18.959: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8140): Gtk-WARNING **: 15:11:18.960: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8205): Gtk-WARNING **: 15:11:19.111: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8205): Gtk-WARNING **: 15:11:19.111: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8269): Gtk-WARNING **: 15:11:20.251: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8269): Gtk-WARNING **: 15:11:20.251: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591121480296	Marionette	INFO	Listening on port 32807
+1591121480357	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591121502807	Marionette	INFO	Stopped listening on port 32807
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591197206870	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez4cV6S"
+
+(firefox:2589): Gtk-WARNING **: 12:13:26.936: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:2589): Gtk-WARNING **: 12:13:26.936: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197207343	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591197207943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591197207943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591197207943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591197207943	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:2648): Gtk-WARNING **: 12:13:28.556: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:2648): Gtk-WARNING **: 12:13:28.556: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:2719): Gtk-WARNING **: 12:13:28.730: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:2719): Gtk-WARNING **: 12:13:28.733: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:2790): Gtk-WARNING **: 12:13:30.426: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:2790): Gtk-WARNING **: 12:13:30.426: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197210742	Marionette	INFO	Listening on port 37587
+1591197210797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591197234365	Marionette	INFO	Stopped listening on port 37587
+1591197466283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9LK7gs"
+
+(firefox:3012): Gtk-WARNING **: 12:17:46.326: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:3012): Gtk-WARNING **: 12:17:46.326: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197466623	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591197467043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591197467043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591197467044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591197467044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:3064): Gtk-WARNING **: 12:17:47.559: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3064): Gtk-WARNING **: 12:17:47.559: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:3161): Gtk-WARNING **: 12:17:47.748: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3161): Gtk-WARNING **: 12:17:47.748: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:3227): Gtk-WARNING **: 12:17:49.202: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3227): Gtk-WARNING **: 12:17:49.202: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197469282	Marionette	INFO	Listening on port 46449
+1591197469305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591197520333	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3m1I6U"
+
+(firefox:3309): Gtk-WARNING **: 12:18:40.382: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:3309): Gtk-WARNING **: 12:18:40.382: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197520675	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591197521124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591197521124	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591197521125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591197521125	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:3361): Gtk-WARNING **: 12:18:41.617: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3361): Gtk-WARNING **: 12:18:41.617: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:3460): Gtk-WARNING **: 12:18:41.787: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3460): Gtk-WARNING **: 12:18:41.788: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:3525): Gtk-WARNING **: 12:18:42.956: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:3525): Gtk-WARNING **: 12:18:42.956: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591197522998	Marionette	INFO	Listening on port 45811
+1591197523040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591197545483	Marionette	INFO	Stopped listening on port 45811
+1591197748442	Marionette	INFO	Stopped listening on port 46449
+1591209450765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevOM33Y"
+
+(firefox:4081): Gtk-WARNING **: 15:37:30.810: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4081): Gtk-WARNING **: 15:37:30.810: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209451118	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209451539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209451539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209451539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209451539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4135): Gtk-WARNING **: 15:37:32.044: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4135): Gtk-WARNING **: 15:37:32.045: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4229): Gtk-WARNING **: 15:37:32.247: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4229): Gtk-WARNING **: 15:37:32.247: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4293): Gtk-WARNING **: 15:37:33.421: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4293): Gtk-WARNING **: 15:37:33.422: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209453482	Marionette	INFO	Listening on port 39007
+1591209453580	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209591549	Marionette	INFO	Stopped listening on port 39007
+1591209593477	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCEIIox"
+
+(firefox:4486): Gtk-WARNING **: 15:39:53.523: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4486): Gtk-WARNING **: 15:39:53.523: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209593888	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209594346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209594346	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209594347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209594347	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4537): Gtk-WARNING **: 15:39:54.876: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4537): Gtk-WARNING **: 15:39:54.876: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4630): Gtk-WARNING **: 15:39:55.059: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4630): Gtk-WARNING **: 15:39:55.060: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4699): Gtk-WARNING **: 15:39:56.389: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4699): Gtk-WARNING **: 15:39:56.390: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209596514	Marionette	INFO	Listening on port 33133
+1591209596593	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209670877	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZTzn6a"
+
+(firefox:4793): Gtk-WARNING **: 15:41:10.924: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:4793): Gtk-WARNING **: 15:41:10.924: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209671220	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209671662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209671662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209671662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209671662	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:4846): Gtk-WARNING **: 15:41:12.156: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4846): Gtk-WARNING **: 15:41:12.157: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:4947): Gtk-WARNING **: 15:41:12.345: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:4947): Gtk-WARNING **: 15:41:12.345: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5008): Gtk-WARNING **: 15:41:13.530: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5008): Gtk-WARNING **: 15:41:13.530: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209673578	Marionette	INFO	Listening on port 35815
+1591209673596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209678777	Marionette	INFO	Stopped listening on port 33133
+1591209720369	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLTkfbv"
+
+(firefox:5089): Gtk-WARNING **: 15:42:00.410: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5089): Gtk-WARNING **: 15:42:00.410: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209720713	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209721139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209721139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209721139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209721139	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5141): Gtk-WARNING **: 15:42:01.662: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5141): Gtk-WARNING **: 15:42:01.662: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5244): Gtk-WARNING **: 15:42:01.842: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5244): Gtk-WARNING **: 15:42:01.842: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5308): Gtk-WARNING **: 15:42:03.090: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5308): Gtk-WARNING **: 15:42:03.090: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209723154	Marionette	INFO	Listening on port 41435
+1591209723198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209777880	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesexv9m"
+
+(firefox:5397): Gtk-WARNING **: 15:42:57.929: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5397): Gtk-WARNING **: 15:42:57.929: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209778273	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209778726	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209778727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209778727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209778727	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:5451): Gtk-WARNING **: 15:42:59.328: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5451): Gtk-WARNING **: 15:42:59.329: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5541): Gtk-WARNING **: 15:42:59.567: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5541): Gtk-WARNING **: 15:42:59.567: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5606): Gtk-WARNING **: 15:43:00.791: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5606): Gtk-WARNING **: 15:43:00.791: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209780841	Marionette	INFO	Listening on port 36011
+1591209780892	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209830378	Marionette	INFO	Stopped listening on port 41435
+1591209832975	Marionette	INFO	Stopped listening on port 36011
+1591209833431	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu9Zr9t"
+
+(firefox:5728): Gtk-WARNING **: 15:43:53.480: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:5728): Gtk-WARNING **: 15:43:53.480: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209833796	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209834299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209834299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209834299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209834299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591209834696	Marionette	INFO	Stopped listening on port 35815
+
+(/usr/lib/firefox/firefox:5787): Gtk-WARNING **: 15:43:54.894: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5787): Gtk-WARNING **: 15:43:54.895: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5890): Gtk-WARNING **: 15:43:55.084: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5890): Gtk-WARNING **: 15:43:55.085: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:5950): Gtk-WARNING **: 15:43:56.300: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:5950): Gtk-WARNING **: 15:43:56.301: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209836376	Marionette	INFO	Listening on port 43039
+1591209836440	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209883458	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileI6HR46"
+
+(firefox:6028): Gtk-WARNING **: 15:44:43.499: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6028): Gtk-WARNING **: 15:44:43.499: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209883794	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591209884228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591209884228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591209884228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591209884228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6081): Gtk-WARNING **: 15:44:44.737: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6081): Gtk-WARNING **: 15:44:44.737: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6182): Gtk-WARNING **: 15:44:44.945: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6182): Gtk-WARNING **: 15:44:44.945: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6242): Gtk-WARNING **: 15:44:46.073: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6242): Gtk-WARNING **: 15:44:46.073: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591209886137	Marionette	INFO	Listening on port 41487
+1591209886168	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591209908532	Marionette	INFO	Stopped listening on port 41487
+1591210166281	Marionette	INFO	Stopped listening on port 43039
+1591210176343	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNzIcis"
+
+(firefox:6418): Gtk-WARNING **: 15:49:36.388: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6418): Gtk-WARNING **: 15:49:36.388: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210176687	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210177120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210177120	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210177121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210177121	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6472): Gtk-WARNING **: 15:49:37.653: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6472): Gtk-WARNING **: 15:49:37.653: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6554): Gtk-WARNING **: 15:49:37.819: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6554): Gtk-WARNING **: 15:49:37.820: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6617): Gtk-WARNING **: 15:49:38.992: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6617): Gtk-WARNING **: 15:49:38.992: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210179040	Marionette	INFO	Listening on port 33165
+1591210179059	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591210224380	Marionette	INFO	Stopped listening on port 33165
+1591210387083	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley3h7pp"
+
+(firefox:6721): Gtk-WARNING **: 15:53:07.128: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6721): Gtk-WARNING **: 15:53:07.128: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210387442	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210387906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210387906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210387906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210387906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6772): Gtk-WARNING **: 15:53:08.424: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6772): Gtk-WARNING **: 15:53:08.424: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6871): Gtk-WARNING **: 15:53:08.655: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6871): Gtk-WARNING **: 15:53:08.655: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6938): Gtk-WARNING **: 15:53:10.039: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6938): Gtk-WARNING **: 15:53:10.039: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210390083	Marionette	INFO	Listening on port 45771
+1591210390104	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210471579	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUy1nBJ"
+
+(firefox:7036): Gtk-WARNING **: 15:54:31.628: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7036): Gtk-WARNING **: 15:54:31.628: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210471935	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210472460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210472460	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210472461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210472461	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591210472796	Marionette	INFO	Stopped listening on port 45771
+
+(/usr/lib/firefox/firefox:7097): Gtk-WARNING **: 15:54:33.073: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7097): Gtk-WARNING **: 15:54:33.073: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7192): Gtk-WARNING **: 15:54:33.320: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7192): Gtk-WARNING **: 15:54:33.322: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7254): Gtk-WARNING **: 15:54:34.601: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7254): Gtk-WARNING **: 15:54:34.601: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210474653	Marionette	INFO	Listening on port 42863
+1591210474691	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210497322	Marionette	INFO	Stopped listening on port 42863
+1591210562615	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWi23od"
+
+(firefox:7340): Gtk-WARNING **: 15:56:02.656: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7340): Gtk-WARNING **: 15:56:02.656: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210562958	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210563416	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210563417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210563417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210563417	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7394): Gtk-WARNING **: 15:56:03.948: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7394): Gtk-WARNING **: 15:56:03.948: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7478): Gtk-WARNING **: 15:56:04.124: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7478): Gtk-WARNING **: 15:56:04.125: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7540): Gtk-WARNING **: 15:56:05.463: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7540): Gtk-WARNING **: 15:56:05.463: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210565581	Marionette	INFO	Listening on port 37741
+1591210565630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210588169	Marionette	INFO	Stopped listening on port 37741
+1591210607684	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegi8wBE"
+
+(firefox:7631): Gtk-WARNING **: 15:56:47.725: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7631): Gtk-WARNING **: 15:56:47.725: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210608026	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210608457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210608457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210608457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210608457	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7684): Gtk-WARNING **: 15:56:48.992: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7684): Gtk-WARNING **: 15:56:48.992: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 15:56:49.153: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7776): Gtk-WARNING **: 15:56:49.154: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7840): Gtk-WARNING **: 15:56:50.554: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7840): Gtk-WARNING **: 15:56:50.554: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210610635	Marionette	INFO	Listening on port 33115
+1591210610701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210632975	Marionette	INFO	Stopped listening on port 33115
+1591210687968	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQJaGO8"
+
+(firefox:7929): Gtk-WARNING **: 15:58:08.008: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7929): Gtk-WARNING **: 15:58:08.008: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210688311	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210688743	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210688744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210688744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210688744	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7981): Gtk-WARNING **: 15:58:09.298: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7981): Gtk-WARNING **: 15:58:09.298: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8077): Gtk-WARNING **: 15:58:09.505: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8077): Gtk-WARNING **: 15:58:09.507: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8140): Gtk-WARNING **: 15:58:10.724: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8140): Gtk-WARNING **: 15:58:10.724: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210690772	Marionette	INFO	Listening on port 43891
+1591210690789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210740811	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileH9JPXt"
+
+(firefox:8220): Gtk-WARNING **: 15:59:00.859: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:8220): Gtk-WARNING **: 15:59:00.859: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210741148	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210741536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210741536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210741536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210741536	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8275): Gtk-WARNING **: 15:59:02.048: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8275): Gtk-WARNING **: 15:59:02.048: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8362): Gtk-WARNING **: 15:59:02.258: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8362): Gtk-WARNING **: 15:59:02.258: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8426): Gtk-WARNING **: 15:59:03.596: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8426): Gtk-WARNING **: 15:59:03.596: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210743677	Marionette	INFO	Listening on port 42891
+1591210743722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210766136	Marionette	INFO	Stopped listening on port 42891
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591210808769	Marionette	INFO	Stopped listening on port 43891
+1591210820680	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile71bROt"
+
+(firefox:8521): Gtk-WARNING **: 16:00:20.723: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:8521): Gtk-WARNING **: 16:00:20.723: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210821019	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210821468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210821468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210821469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210821469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8574): Gtk-WARNING **: 16:00:21.964: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8574): Gtk-WARNING **: 16:00:21.965: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8661): Gtk-WARNING **: 16:00:22.156: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8661): Gtk-WARNING **: 16:00:22.157: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8724): Gtk-WARNING **: 16:00:23.351: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8724): Gtk-WARNING **: 16:00:23.351: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210823396	Marionette	INFO	Listening on port 41253
+1591210823496	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591210845938	Marionette	INFO	Stopped listening on port 41253
+1591210996199	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHb6XHQ"
+
+(firefox:8804): Gtk-WARNING **: 16:03:16.250: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:8804): Gtk-WARNING **: 16:03:16.251: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210996549	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591210996997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591210996997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591210996997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591210996997	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8857): Gtk-WARNING **: 16:03:17.503: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8857): Gtk-WARNING **: 16:03:17.503: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8961): Gtk-WARNING **: 16:03:17.702: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8961): Gtk-WARNING **: 16:03:17.702: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:9022): Gtk-WARNING **: 16:03:18.995: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9022): Gtk-WARNING **: 16:03:18.995: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591210999090	Marionette	INFO	Listening on port 42399
+1591210999113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591211023035	Marionette	INFO	Stopped listening on port 42399
+1591212102346	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSiPtFP"
+
+(firefox:9496): Gtk-WARNING **: 16:21:42.392: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:9496): Gtk-WARNING **: 16:21:42.392: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212102697	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212103151	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212103152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212103152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212103152	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9548): Gtk-WARNING **: 16:21:43.669: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9548): Gtk-WARNING **: 16:21:43.669: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:9644): Gtk-WARNING **: 16:21:43.855: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9644): Gtk-WARNING **: 16:21:43.855: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:9708): Gtk-WARNING **: 16:21:45.017: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9708): Gtk-WARNING **: 16:21:45.017: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212105082	Marionette	INFO	Listening on port 42097
+1591212105153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212127530	Marionette	INFO	Stopped listening on port 42097
+1591212179663	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSzg3OT"
+
+(firefox:9809): Gtk-WARNING **: 16:22:59.705: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:9809): Gtk-WARNING **: 16:22:59.705: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212180010	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212180467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212180467	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212180468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212180468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:9861): Gtk-WARNING **: 16:23:01.061: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9861): Gtk-WARNING **: 16:23:01.062: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:9969): Gtk-WARNING **: 16:23:01.369: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:9969): Gtk-WARNING **: 16:23:01.369: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10028): Gtk-WARNING **: 16:23:02.751: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10028): Gtk-WARNING **: 16:23:02.751: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212182812	Marionette	INFO	Listening on port 41035
+1591212182876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212253901	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepGRPL2"
+
+(firefox:10147): Gtk-WARNING **: 16:24:13.954: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:10147): Gtk-WARNING **: 16:24:13.954: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212254269	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212254713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212254714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212254714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212254714	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10203): Gtk-WARNING **: 16:24:15.332: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10203): Gtk-WARNING **: 16:24:15.332: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10225): Gtk-WARNING **: 16:24:15.509: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10225): Gtk-WARNING **: 16:24:15.509: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212255772	Marionette	INFO	Stopped listening on port 41035
+
+(/usr/lib/firefox/firefox:10294): Gtk-WARNING **: 16:24:16.808: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10294): Gtk-WARNING **: 16:24:16.808: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212256914	Marionette	INFO	Listening on port 33541
+1591212257016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212332469	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTxmzrn"
+
+(firefox:10384): Gtk-WARNING **: 16:25:32.513: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:10384): Gtk-WARNING **: 16:25:32.513: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212332830	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212333267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212333267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212333267	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212333268	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10437): Gtk-WARNING **: 16:25:33.804: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10437): Gtk-WARNING **: 16:25:33.804: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10533): Gtk-WARNING **: 16:25:33.988: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10533): Gtk-WARNING **: 16:25:33.988: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10600): Gtk-WARNING **: 16:25:35.242: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10600): Gtk-WARNING **: 16:25:35.242: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212335329	Marionette	INFO	Listening on port 37853
+1591212335381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212388617	Marionette	INFO	Stopped listening on port 37853
+1591212397884	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileN2QIfN"
+
+(firefox:10677): Gtk-WARNING **: 16:26:37.928: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:10677): Gtk-WARNING **: 16:26:37.928: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212398236	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212398736	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212398737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212398737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212398737	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:10730): Gtk-WARNING **: 16:26:39.277: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10730): Gtk-WARNING **: 16:26:39.277: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10809): Gtk-WARNING **: 16:26:39.464: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10809): Gtk-WARNING **: 16:26:39.464: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:10875): Gtk-WARNING **: 16:26:40.647: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:10875): Gtk-WARNING **: 16:26:40.648: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212400710	Marionette	INFO	Listening on port 37507
+1591212400794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212424281	Marionette	INFO	Stopped listening on port 37507
+1591212481198	Marionette	INFO	Stopped listening on port 33541
+1591212643240	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile46fWSW"
+
+(firefox:11011): Gtk-WARNING **: 16:30:43.286: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:11011): Gtk-WARNING **: 16:30:43.286: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212643603	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212644017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212644017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212644017	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212644018	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:11062): Gtk-WARNING **: 16:30:44.541: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11062): Gtk-WARNING **: 16:30:44.541: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:11169): Gtk-WARNING **: 16:30:44.753: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11169): Gtk-WARNING **: 16:30:44.753: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:11232): Gtk-WARNING **: 16:30:45.904: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11232): Gtk-WARNING **: 16:30:45.904: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212645950	Marionette	INFO	Listening on port 40355
+1591212646052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591212669586	Marionette	INFO	Stopped listening on port 40355
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591212733455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei9M7hY"
+
+(firefox:11321): Gtk-WARNING **: 16:32:13.498: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:11321): Gtk-WARNING **: 16:32:13.498: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212733808	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591212734236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591212734236	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591212734237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591212734237	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:11372): Gtk-WARNING **: 16:32:14.749: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11372): Gtk-WARNING **: 16:32:14.749: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:11464): Gtk-WARNING **: 16:32:14.950: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11464): Gtk-WARNING **: 16:32:14.951: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:11527): Gtk-WARNING **: 16:32:16.272: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11527): Gtk-WARNING **: 16:32:16.272: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591212736326	Marionette	INFO	Listening on port 34609
+1591212736363	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213238405	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileImFTBQ"
+
+(firefox:11818): Gtk-WARNING **: 16:40:38.450: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:11818): Gtk-WARNING **: 16:40:38.450: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213238763	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213239218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213239218	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213239219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213239219	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:11869): Gtk-WARNING **: 16:40:39.726: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11869): Gtk-WARNING **: 16:40:39.726: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:11963): Gtk-WARNING **: 16:40:39.894: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:11963): Gtk-WARNING **: 16:40:39.894: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12029): Gtk-WARNING **: 16:40:41.270: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12029): Gtk-WARNING **: 16:40:41.270: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213241314	Marionette	INFO	Listening on port 38147
+1591213241418	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213291630	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5EQ2fI"
+
+(firefox:12108): Gtk-WARNING **: 16:41:31.671: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:12108): Gtk-WARNING **: 16:41:31.671: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213291976	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213292432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213292432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213292432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213292432	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12162): Gtk-WARNING **: 16:41:32.960: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12162): Gtk-WARNING **: 16:41:32.960: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12253): Gtk-WARNING **: 16:41:33.156: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12253): Gtk-WARNING **: 16:41:33.156: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12319): Gtk-WARNING **: 16:41:34.538: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12319): Gtk-WARNING **: 16:41:34.538: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213294594	Marionette	INFO	Listening on port 44257
+1591213294682	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213318079	Marionette	INFO	Stopped listening on port 44257
+1591213326672	Marionette	INFO	Stopped listening on port 38147
+1591213327298	Marionette	INFO	Stopped listening on port 34609
+1591213338141	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileneegK4"
+
+(firefox:12423): Gtk-WARNING **: 16:42:18.201: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:12423): Gtk-WARNING **: 16:42:18.201: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213338528	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213338967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213338967	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213338968	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12478): Gtk-WARNING **: 16:42:19.544: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12478): Gtk-WARNING **: 16:42:19.544: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12580): Gtk-WARNING **: 16:42:19.754: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12580): Gtk-WARNING **: 16:42:19.754: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12644): Gtk-WARNING **: 16:42:20.926: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12644): Gtk-WARNING **: 16:42:20.926: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213340969	Marionette	INFO	Listening on port 37583
+1591213341048	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213364329	Marionette	INFO	Stopped listening on port 37583
+1591213463281	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyHc4xJ"
+
+(firefox:12749): Gtk-WARNING **: 16:44:23.331: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:12749): Gtk-WARNING **: 16:44:23.331: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213463627	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213464105	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213464106	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:12802): Gtk-WARNING **: 16:44:24.614: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12802): Gtk-WARNING **: 16:44:24.614: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12902): Gtk-WARNING **: 16:44:24.842: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12902): Gtk-WARNING **: 16:44:24.842: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:12962): Gtk-WARNING **: 16:44:26.059: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:12962): Gtk-WARNING **: 16:44:26.059: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213466104	Marionette	INFO	Listening on port 38643
+1591213466197	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213489303	Marionette	INFO	Stopped listening on port 38643
+1591213696446	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegXUeEd"
+
+(firefox:13074): Gtk-WARNING **: 16:48:16.490: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:13074): Gtk-WARNING **: 16:48:16.490: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213696792	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213697242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213697242	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213697243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213697243	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13127): Gtk-WARNING **: 16:48:17.749: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13127): Gtk-WARNING **: 16:48:17.749: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:13230): Gtk-WARNING **: 16:48:17.936: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13230): Gtk-WARNING **: 16:48:17.936: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:13295): Gtk-WARNING **: 16:48:19.271: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13295): Gtk-WARNING **: 16:48:19.271: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213699347	Marionette	INFO	Listening on port 46515
+1591213699361	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213722003	Marionette	INFO	Stopped listening on port 46515
+1591213961063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePNGPgO"
+
+(firefox:13425): Gtk-WARNING **: 16:52:41.111: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:13425): Gtk-WARNING **: 16:52:41.111: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213961408	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591213961833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591213961833	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591213961834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591213961834	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:13478): Gtk-WARNING **: 16:52:42.348: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13478): Gtk-WARNING **: 16:52:42.348: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:13570): Gtk-WARNING **: 16:52:42.544: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13570): Gtk-WARNING **: 16:52:42.544: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 16:52:43.790: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:13633): Gtk-WARNING **: 16:52:43.790: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591213963869	Marionette	INFO	Listening on port 39219
+1591213963877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591213987052	Marionette	INFO	Stopped listening on port 39219
+1591214738888	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileT1bsFC"
+
+(firefox:14104): Gtk-WARNING **: 17:05:38.936: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:14104): Gtk-WARNING **: 17:05:38.937: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591214739232	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591214739689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591214739689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591214739689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591214739689	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14155): Gtk-WARNING **: 17:05:40.208: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14155): Gtk-WARNING **: 17:05:40.208: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:14258): Gtk-WARNING **: 17:05:40.408: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14258): Gtk-WARNING **: 17:05:40.408: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:14320): Gtk-WARNING **: 17:05:41.750: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14320): Gtk-WARNING **: 17:05:41.750: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591214741801	Marionette	INFO	Listening on port 45205
+1591214741896	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591214767004	Marionette	INFO	Stopped listening on port 45205
+1591214822741	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOnb1qD"
+
+(firefox:14424): Gtk-WARNING **: 17:07:02.781: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:14424): Gtk-WARNING **: 17:07:02.781: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591214823082	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591214823529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591214823529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591214823529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591214823529	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14476): Gtk-WARNING **: 17:07:04.048: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14476): Gtk-WARNING **: 17:07:04.048: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:14586): Gtk-WARNING **: 17:07:04.244: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14586): Gtk-WARNING **: 17:07:04.244: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:14647): Gtk-WARNING **: 17:07:05.530: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14647): Gtk-WARNING **: 17:07:05.530: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591214825585	Marionette	INFO	Listening on port 36257
+1591214825648	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591214847961	Marionette	INFO	Stopped listening on port 36257
+1591215114397	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileX41d09"
+
+(firefox:14806): Gtk-WARNING **: 17:11:54.446: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:14806): Gtk-WARNING **: 17:11:54.446: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215114745	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591215115154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591215115154	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591215115155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591215115155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 17:11:55.661: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14857): Gtk-WARNING **: 17:11:55.661: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:14959): Gtk-WARNING **: 17:11:55.832: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:14959): Gtk-WARNING **: 17:11:55.832: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:15024): Gtk-WARNING **: 17:11:57.169: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15024): Gtk-WARNING **: 17:11:57.170: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215117250	Marionette	INFO	Listening on port 41269
+1591215117320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591215140452	Marionette	INFO	Stopped listening on port 41269
+1591215214547	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWqaCLP"
+
+(firefox:15110): Gtk-WARNING **: 17:13:34.592: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:15110): Gtk-WARNING **: 17:13:34.592: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215214882	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591215215305	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591215215306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591215215306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591215215306	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15160): Gtk-WARNING **: 17:13:35.815: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15160): Gtk-WARNING **: 17:13:35.815: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:15253): Gtk-WARNING **: 17:13:35.993: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15253): Gtk-WARNING **: 17:13:35.993: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:15319): Gtk-WARNING **: 17:13:37.170: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15319): Gtk-WARNING **: 17:13:37.170: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215217225	Marionette	INFO	Listening on port 41995
+1591215217258	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591215241718	Marionette	INFO	Stopped listening on port 41995
+1591215309981	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehMKQ3i"
+
+(firefox:15430): Gtk-WARNING **: 17:15:10.027: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:15430): Gtk-WARNING **: 17:15:10.027: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215310335	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591215310790	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591215310791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591215310791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591215310791	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:15483): Gtk-WARNING **: 17:15:11.310: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15483): Gtk-WARNING **: 17:15:11.310: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:15574): Gtk-WARNING **: 17:15:11.490: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15574): Gtk-WARNING **: 17:15:11.490: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:15637): Gtk-WARNING **: 17:15:12.859: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:15637): Gtk-WARNING **: 17:15:12.859: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591215312919	Marionette	INFO	Listening on port 33967
+1591215312997	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591215336495	Marionette	INFO	Stopped listening on port 33967
