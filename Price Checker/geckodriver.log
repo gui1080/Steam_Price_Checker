@@ -1341,3 +1341,198 @@ IPDL protocol error: Handler returned error code!
 1591215312919	Marionette	INFO	Listening on port 33967
 1591215312997	Marionette	WARN	TLS certificate errors will be ignored for this session
 1591215336495	Marionette	INFO	Stopped listening on port 33967
+1591291782827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJjyZJo"
+
+(firefox:6515): Gtk-WARNING **: 14:29:42.867: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:6515): Gtk-WARNING **: 14:29:42.868: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591291783185	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591291783610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591291783610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591291783610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591291783610	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:6568): Gtk-WARNING **: 14:29:44.157: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6568): Gtk-WARNING **: 14:29:44.157: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6660): Gtk-WARNING **: 14:29:44.371: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6660): Gtk-WARNING **: 14:29:44.371: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:6720): Gtk-WARNING **: 14:29:45.609: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:6720): Gtk-WARNING **: 14:29:45.609: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591291785664	Marionette	INFO	Listening on port 37921
+1591291785747	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591291805716	Marionette	INFO	Stopped listening on port 37921
+1591293078761	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLlBTJL"
+
+(firefox:7361): Gtk-WARNING **: 14:51:18.807: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7361): Gtk-WARNING **: 14:51:18.807: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293079116	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591293079562	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591293079563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591293079563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591293079563	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7412): Gtk-WARNING **: 14:51:20.083: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7412): Gtk-WARNING **: 14:51:20.083: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7511): Gtk-WARNING **: 14:51:20.280: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7511): Gtk-WARNING **: 14:51:20.280: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7572): Gtk-WARNING **: 14:51:21.474: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7572): Gtk-WARNING **: 14:51:21.475: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293081527	Marionette	INFO	Listening on port 36379
+1591293081573	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591293100240	Marionette	INFO	Stopped listening on port 36379
+1591293858975	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehxdFZ8"
+
+(firefox:7804): Gtk-WARNING **: 15:04:19.017: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:7804): Gtk-WARNING **: 15:04:19.017: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293859310	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591293859784	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591293859785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591293859785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591293859785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:7856): Gtk-WARNING **: 15:04:20.300: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7856): Gtk-WARNING **: 15:04:20.300: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:7936): Gtk-WARNING **: 15:04:20.484: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:7936): Gtk-WARNING **: 15:04:20.484: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8001): Gtk-WARNING **: 15:04:21.659: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8001): Gtk-WARNING **: 15:04:21.659: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293861728	Marionette	INFO	Listening on port 38657
+1591293861795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591293881250	Marionette	INFO	Stopped listening on port 38657
+1591293950319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLLJgEr"
+
+(firefox:8100): Gtk-WARNING **: 15:05:50.365: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(firefox:8100): Gtk-WARNING **: 15:05:50.365: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293950667	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591293951109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591293951109	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591293951110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591293951110	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+
+(/usr/lib/firefox/firefox:8153): Gtk-WARNING **: 15:05:51.619: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8153): Gtk-WARNING **: 15:05:51.619: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8243): Gtk-WARNING **: 15:05:51.812: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8243): Gtk-WARNING **: 15:05:51.813: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+
+(/usr/lib/firefox/firefox:8309): Gtk-WARNING **: 15:05:52.974: Theme parsing error: gtk.css:4056:0: Expected semicolon
+
+(/usr/lib/firefox/firefox:8309): Gtk-WARNING **: 15:05:52.974: Theme parsing error: gtk.css:4060:0: Expected a valid selector
+1591293953020	Marionette	INFO	Listening on port 44899
+1591293953038	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591293971755	Marionette	INFO	Stopped listening on port 44899
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591294151331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXJ1S24"
+*** You are running in headless mode.
+1591294151649	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591294152074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591294152074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591294152074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591294152074	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591294153892	Marionette	INFO	Listening on port 36975
+1591294153940	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591294173806	Marionette	INFO	Stopped listening on port 36975
+1591294828116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile97Odze"
+*** You are running in headless mode.
+1591294828417	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591294828879	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591294828880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591294828880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591294828880	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591294830719	Marionette	INFO	Listening on port 37501
+1591294830728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591294849975	Marionette	INFO	Stopped listening on port 37501
+1591294931112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileWmTo7o"
+*** You are running in headless mode.
+1591294931405	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591294931865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591294931865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591294931865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591294931865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591294933668	Marionette	INFO	Listening on port 36475
+1591294933719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591294952376	Marionette	INFO	Stopped listening on port 36475
+1591295009260	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1ynHhe"
+*** You are running in headless mode.
+1591295009559	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591295010016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591295010016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591295010016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591295010016	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591295011808	Marionette	INFO	Listening on port 36599
+1591295011873	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591295031821	Marionette	INFO	Stopped listening on port 36599
+1591295070805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1VxNbR"
+*** You are running in headless mode.
+1591295071097	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591295071573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591295071573	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591295071574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591295071574	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591295073444	Marionette	INFO	Listening on port 34823
+1591295073516	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591295092443	Marionette	INFO	Stopped listening on port 34823
+1591295251322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejDykCq"
+*** You are running in headless mode.
+1591295251616	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591295252071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591295252071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591295252071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591295252071	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591295253845	Marionette	INFO	Listening on port 43281
+1591295253934	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591295277443	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMSC00J"
+*** You are running in headless mode.
+1591295277733	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591295278177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591295278177	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591295278178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591295278178	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591295279990	Marionette	INFO	Listening on port 38521
+1591295280055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591295298985	Marionette	INFO	Stopped listening on port 38521
+1591295386192	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiMuHDw"
+*** You are running in headless mode.
+1591295386481	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1591295386906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1591295386906	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1591295386907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1591295386907	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1591295388691	Marionette	INFO	Listening on port 39837
+1591295388712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591295409931	Marionette	INFO	Stopped listening on port 39837

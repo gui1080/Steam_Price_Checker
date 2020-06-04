@@ -5,6 +5,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
+import os
 
 
 def get_price(url,appid):
@@ -23,6 +24,7 @@ def get_price(url,appid):
 	# to make it more simple, selenium is set to not show screen
 	option = Options()
 	option.headless = True
+	os.environ['MOZ_HEADLESS'] = '1'
 	driver = webdriver.Firefox()
 	driver.get(url)
  
