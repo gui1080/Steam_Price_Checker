@@ -1,4 +1,3 @@
-
 try:
     from googlesearch import search
 except ImportError:

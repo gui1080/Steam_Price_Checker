@@ -5,12 +5,14 @@ from Tkinter import *
 
 
 def terminate_program():
+    # everything closes If exit is pressed
     quit()
     
 def Click():
     
     game = e.get()
     print(game)
+    # gets game string
     
     aux = " Steam"
     # join game name + steam
@@ -18,18 +20,23 @@ def Click():
     #print(query)
 
     app_data_main = gather_app_data(query)
+    # steam works with appdata numbers, each game has an unique appdata
     
     url = gather_url(query)
     print(url)
+    # this way we search google for the steam url, to see if the game exists, and also to gather the appdata number
 
     price = {}
     price = get_price(url, app_data_main)
+    # this function returns a dictionary with every price possible, for each Steam Store in the world
+    
     # print(price)
 
     j = 0
 
     while(1):
         
+        # we get the main values as a test
         if j == 0:
             flag = 'Brazilian Real'
         if j == 1:
@@ -43,16 +50,16 @@ def Click():
             
         i = 0
         while(1):
+            # search the currency field for our country's currency
             if (price['Currency'].get(i) == flag):
                 break;
             i = i + 1
 
         print(price['Currency'].get(i))
-        
         print(price['Price atm'].get(i))
-        
         print(price['Lowest Price Ever'].get(i))
         
+        # for each variable, we get an information about that country
         if j == 0:
             
             currency_brl = price['Currency'].get(i)
@@ -80,6 +87,7 @@ def Click():
             
         j = j + 1
     
+    # now we put It all on a new window for the user to see
     
     top = Toplevel()
     top.title('Results') 
@@ -107,6 +115,8 @@ def Click():
     Label_Price_aud.grid(row=4, column=2)
 
  
+# here the main window is created
+
 root = Tk()
 
 Label_main = Label(root, text="Enter the name of the Steam game you want to check")
@@ -120,11 +130,6 @@ Button_main.grid(row=3, column=1)
 
 Button_Exit = Button(root, text="Exit", command=terminate_program)
 Button_Exit.grid(row=4, column=1)
-
-#Label.grid(row=1, column=1)
-#e.grid(row=1, column=2)
-#Button.grid(row=1, column=3)
-#Button_Exit.grid(row=1, column=4)
 
 e.focus()
 
