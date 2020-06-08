@@ -7,3 +7,6 @@ This Python repo is also a "test area" for this same project implemented as a Di
 
 
 > needs to print the lowest price ever on the last screen
+
+
+> other guides are on their way
